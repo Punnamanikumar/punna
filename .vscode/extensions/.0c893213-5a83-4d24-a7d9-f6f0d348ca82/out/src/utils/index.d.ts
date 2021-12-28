@@ -1,0 +1,1 @@
+export { retrieveTestCodeCoverage } from './settings';
